@@ -39,7 +39,6 @@ const Index = () => {
           Photographers' Todo App
         </Heading>
         <HStack spacing={4}>
-          {/* Placeholder for future navigation items */}
           <Button variant="ghost">Home</Button>
           <Button variant="ghost">About</Button>
         </HStack>
